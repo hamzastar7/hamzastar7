@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**hamzastar7/hamzastar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm [AZIL HAMZA]!
+Welcome to my GitHub profile! I'm a [Software Engineer, Embedded Systems Developer] with a passion for [open-source projects, IoT, Linux development].
+
+🔭 What I'm Working On
+[Project Name]: Brief description of your current project.
+[Project Name]: Brief description of another project.
+🌱 What I'm Learning
+[New Skill or Technology]: Brief description.
+[Another Skill or Technology]: Brief description.
+👯 Looking to Collaborate On
+Projects related to [Technology/Field].
+Open-source initiatives in [Specific Area].
+🤔 Looking for Help With
+[Technology/Problem]: Brief description of what you need help with.
+💬 Ask Me About
+[Technology or Expertise]: Brief description of what you’re knowledgeable in.
+[Another Technology or Area]: Brief description.
+📫 How to Reach Me
+Email: [azilhamza@gmail.com]
+LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/hamza-azil/)]
+⚡ Fun Fact
+[chess, comedy, swimming].
